@@ -62,13 +62,23 @@ SnipLytix solves this by providing a **simple, secure, and analytics-driven** UR
 
 ## 📸 Application Screenshots
 
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
 
 ### 🏠 Landing Page
+![Landing Page](screenshots/landing.png)
 
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
 
+### ➕ Create Short URL
+![Create Short URL](screenshots/create-url.png)
 
+### 📈 Analytics View
+![Analytics](screenshots/analytics.png)
 
-
+### ℹ️ About Page
+![About Page](screenshots/about.png)
 
 ---
 
