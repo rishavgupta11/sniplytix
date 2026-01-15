@@ -62,29 +62,12 @@ SnipLytix solves this by providing a **simple, secure, and analytics-driven** UR
 
 ## 📸 Application Screenshots
 
-### 🔐 Authentication (Login)
-
-::contentReference[oaicite:0]{index=0}
-
 
 ### 🏠 Landing Page
 
-::contentReference[oaicite:1]{index=1}
 
 
-### 📊 Dashboard Overview
 
-::contentReference[oaicite:2]{index=2}
-
-
-### 🔗 Shortened URL & Analytics
-
-::contentReference[oaicite:3]{index=3}
-
-
-### ➕ Create Short URL Modal
-
-::contentReference[oaicite:4]{index=4}
 
 
 ---
